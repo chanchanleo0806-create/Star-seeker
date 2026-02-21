@@ -1,0 +1,5 @@
+{
+  "name": "StarSeeker",
+  "description": "A powerful AI-driven search engine powered by Gemini with Google Search grounding.",
+  "requestFramePermissions": []
+}
